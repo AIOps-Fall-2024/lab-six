@@ -1,0 +1,1 @@
+curl -g -s "http://35.242.163.219:9090/api/v1/query" --data-urlencode "query=histogram_quantile( 0.5, rate(istio_request_duration_milliseconds_bucket{source_app='frontend', destination_app='shippingservice', reporter='source'}[1m]))"
