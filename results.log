@@ -1,0 +1,34 @@
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn_cx7evx/nep9l5ui.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn_cx7evx/uhi2826f.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=71340', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn_cx7evx/nep9l5ui.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn_cx7evx/uhi2826f.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn_cx7evx/prophet_modelw8ezsutr/prophet_model-20241121211300.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfxyqvqvh/zcwdm31h.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfxyqvqvh/ta6gjo2v.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=80031', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfxyqvqvh/zcwdm31h.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfxyqvqvh/ta6gjo2v.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfxyqvqvh/prophet_modelrdu0okpi/prophet_model-20241121213421.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpoul_678f/w__5oflp.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpoul_678f/y15tih1n.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=46738', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpoul_678f/w__5oflp.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpoul_678f/y15tih1n.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpoul_678f/prophet_modelifgml9x3/prophet_model-20241121214043.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7gnbfqpi/fl3zuem6.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7gnbfqpi/wazowfm9.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=5654', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7gnbfqpi/fl3zuem6.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7gnbfqpi/wazowfm9.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7gnbfqpi/prophet_model6yar6jub/prophet_model-20241121214224.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Error: 'data'
+Error: 'data'

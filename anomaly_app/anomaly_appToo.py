@@ -11,7 +11,6 @@ from datetime import datetime, timezone
 from prophet import Prophet
 from prometheus_client import Gauge, start_http_server
 
-
 from sklearn.metrics import mean_absolute_error, mean_absolute_percentage_error
 
 # reset training data to 0 origin before HMS conversion
@@ -45,14 +44,9 @@ start_http_server(8002)
 
 # get our metrics from Prometheus
 def get_metric(metric):
-    # url = f"http://prometheus:9090/api/v1/query_range"
-    
-    url = f"http://35.234.136.57:9090/api/v1/query_range"
+    url = f"http://35.234.136.57:9090/api/v1/query"
     params = {
         'query': metric,
-        # 'start': (datetime.now(timezone.utc) - timespan).timestamp(),
-        # 'end': datetime.now(timezone.utc).timestamp(),
-        # 'step': '15s'
     }
     response = requests.get(url, params=params)
     data = response.json()
@@ -64,15 +58,13 @@ def get_metric(metric):
     metric_data['y'] = metric_data['y'].astype(float)
     return metric_data
 
-
 # we try to get metrics from a json file instead
-file_path="./boutique_training_finalCopy.json"
+file_path = "./boutique_training_finalCopy.json"
 def get_training_metrics():
     # does the file exist?
     if not os.path.exists(file_path):
         logging.info(f"The file {file_path} does not exist.")
         return pd.DataFrame()
-    
     try:
        # load the JSON data
         with open(file_path, 'r') as file:
@@ -97,7 +89,7 @@ def get_training_metrics():
 # using the timeseries forecasting model
 def prophet_process(df_train):
     model = Prophet(interval_width=0.99, growth='flat', yearly_seasonality=False, 
-                    weekly_seasonality=False, daily_seasonality=False)
+                    weekly_seasonality=False, daily_seasonality=True)
     model.fit(df_train)
     return model
 
@@ -126,26 +118,21 @@ def anomaly_detection(df_test, forecast):
         'MAPE': [mape]
     })
 
-    # create a separator for the output
     separator = '+' * 50
-
-    # log the DataFrame results
     logging.info(separator)
     logging.info('Training and Forecast Time Results')
     logging.info(results.to_string(index=False))
     logging.info(separator)
 
-    # log anomalies or a message if none are found
     anomaly_status = "Anomalies found:" if not anomalies.empty else "No anomalies detected."
     logging.info(anomaly_status)
 
     if not anomalies.empty:
         logging.info(anomalies[['ds', 'y', 'yhat', 'yhat_lower', 'yhat_upper']].to_string(index=False))
 
-
 # main function
 if __name__ == "__main__":
-    # fetch the training data (last 5 minutes) for 'train_gauge'
+     # fetch the training data (last 5 minutes) for 'train_gauge'
     df_train = get_training_metrics()
     if df_train.empty:
         logging.info("The Train Data is empty. We will Retry in 60 seconds.")
@@ -155,18 +142,16 @@ if __name__ == "__main__":
     # now we build the Prophet model
     model = prophet_process(df_train)
 
-    # sleep before testing new data
     time.sleep(60)
     while True:
         try:
-            # fetch the test data (last minute) for 'test_gauge'
             test_query = "histogram_quantile(0.5, rate(istio_request_duration_milliseconds_bucket{source_app=\"frontend\", destination_app=\"shippingservice\", reporter=\"source\"}[]))"
-            df_test = get_metric('test_query')
+            df_test = get_metric(test_query)
             if df_test.empty:
                 logging.info("The Test data is empty. Retrying...")
                 continue
             
-            df_test = process_df(df_test)
+           df_test = process_df(df_test)
             
             # make predictions
             forecast = model.predict(df_test)
