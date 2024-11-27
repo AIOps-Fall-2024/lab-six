@@ -1,0 +1,2046 @@
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn_cx7evx/nep9l5ui.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn_cx7evx/uhi2826f.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=71340', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn_cx7evx/nep9l5ui.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn_cx7evx/uhi2826f.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn_cx7evx/prophet_modelw8ezsutr/prophet_model-20241121211300.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfxyqvqvh/zcwdm31h.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfxyqvqvh/ta6gjo2v.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=80031', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfxyqvqvh/zcwdm31h.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfxyqvqvh/ta6gjo2v.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfxyqvqvh/prophet_modelrdu0okpi/prophet_model-20241121213421.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpoul_678f/w__5oflp.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpoul_678f/y15tih1n.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=46738', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpoul_678f/w__5oflp.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpoul_678f/y15tih1n.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpoul_678f/prophet_modelifgml9x3/prophet_model-20241121214043.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7gnbfqpi/fl3zuem6.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7gnbfqpi/wazowfm9.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=5654', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7gnbfqpi/fl3zuem6.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7gnbfqpi/wazowfm9.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7gnbfqpi/prophet_model6yar6jub/prophet_model-20241121214224.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Error: 'data'
+Error: 'data'
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7fx74peq/guehjb9y.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7fx74peq/1ouy6rxn.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=56339', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7fx74peq/guehjb9y.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7fx74peq/1ouy6rxn.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7fx74peq/prophet_model3qkjexvi/prophet_model-20241123152001.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpv561ilj_/bevj9bg2.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpv561ilj_/na3f6fu2.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=50470', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpv561ilj_/bevj9bg2.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpv561ilj_/na3f6fu2.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpv561ilj_/prophet_modelmv_1c1fk/prophet_model-20241123152847.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Error: 'data'
+Error: 'data'
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpo5vsm2u7/9lvpvbt1.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpo5vsm2u7/84yq5zex.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=85359', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpo5vsm2u7/9lvpvbt1.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpo5vsm2u7/84yq5zex.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpo5vsm2u7/prophet_modelt0qyqeoi/prophet_model-20241123153013.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpteb81q6r/hs4xspn2.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpteb81q6r/_gj36o0j.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=86224', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpteb81q6r/hs4xspn2.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpteb81q6r/_gj36o0j.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpteb81q6r/prophet_modelz2x49rb6/prophet_model-20241123153219.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp531u3290/gz6se072.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp531u3290/2lmunx70.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=51549', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp531u3290/gz6se072.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp531u3290/2lmunx70.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp531u3290/prophet_model7d3vb990/prophet_model-20241123153541.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpxqvf9v4d/_mq7j78s.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpxqvf9v4d/v7hxgb41.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=77768', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpxqvf9v4d/_mq7j78s.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpxqvf9v4d/v7hxgb41.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpxqvf9v4d/prophet_modeldtkoqsmc/prophet_model-20241123154102.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+Error: 'data'
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmx8u3t7r/qkl8_4fy.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmx8u3t7r/da3nzb6p.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=41094', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmx8u3t7r/qkl8_4fy.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmx8u3t7r/da3nzb6p.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmx8u3t7r/prophet_model4652t12w/prophet_model-20241123154146.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Error: 'values'
+Error: 'values'
+Error: 'values'
+Error: 'values'
+Error: 'values'
+Error: 'values'
+Error: 'values'
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjmbvrq03/zfbawn7h.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjmbvrq03/jd8k85hn.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=30518', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjmbvrq03/zfbawn7h.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjmbvrq03/jd8k85hn.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjmbvrq03/prophet_modelk0jn37q6/prophet_model-20241123154237.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp9xnaq5sb/943ldo07.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp9xnaq5sb/5moxaxpa.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=32019', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp9xnaq5sb/943ldo07.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp9xnaq5sb/5moxaxpa.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp9xnaq5sb/prophet_modelspqhvg6l/prophet_model-20241123154346.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpsrsh76ku/tetqosog.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpsrsh76ku/lv7o4_r4.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=40127', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpsrsh76ku/tetqosog.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpsrsh76ku/lv7o4_r4.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpsrsh76ku/prophet_model4uc7uzbx/prophet_model-20241123154421.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+Error: Shape of passed values is (2, 1), indices imply (2, 2)
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpz8fzyf26/msnm4oud.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpz8fzyf26/16gmsa9b.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=43726', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpz8fzyf26/msnm4oud.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpz8fzyf26/16gmsa9b.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpz8fzyf26/prophet_model0cnp8k3e/prophet_model-20241123155008.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+Error: Can only use .dt accessor with datetimelike values
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppprkh2ee/wr51g587.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppprkh2ee/5u171nt2.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=86639', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppprkh2ee/wr51g587.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppprkh2ee/5u171nt2.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppprkh2ee/prophet_modelj78d9bbb/prophet_model-20241123155645.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp2_mzegso/bfjl2312.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp2_mzegso/kzrmmer6.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=78078', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp2_mzegso/bfjl2312.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp2_mzegso/kzrmmer6.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp2_mzegso/prophet_modelogg56n61/prophet_model-20241123155738.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp02mw27q2/e17l6q1t.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp02mw27q2/1dqirtlg.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=31204', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp02mw27q2/e17l6q1t.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp02mw27q2/1dqirtlg.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp02mw27q2/prophet_model4kqre0oi/prophet_model-20241123155850.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn29slkqe/ilqqtpue.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn29slkqe/flih84yu.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=24717', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn29slkqe/ilqqtpue.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn29slkqe/flih84yu.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn29slkqe/prophet_model1tpwlfuf/prophet_model-20241123155935.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+Error: '<' not supported between instances of 'str' and 'float'
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfak_30ay/g3si4160.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfak_30ay/rbyt1phq.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=41586', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfak_30ay/g3si4160.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfak_30ay/rbyt1phq.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfak_30ay/prophet_model4w74va6p/prophet_model-20241123160123.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfrm1b9qg/437jlhdx.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfrm1b9qg/2f6_8bw3.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=35099', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfrm1b9qg/437jlhdx.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfrm1b9qg/2f6_8bw3.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfrm1b9qg/prophet_modelctur4yys/prophet_model-20241123160403.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp2o0qpmuy/rdna1kzw.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp2o0qpmuy/23gxy5he.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=17646', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp2o0qpmuy/rdna1kzw.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp2o0qpmuy/23gxy5he.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp2o0qpmuy/prophet_model3981_qd1/prophet_model-20241123160551.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp_f35n3u2/bcsqd2g7.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp_f35n3u2/wrl0kmh8.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=83049', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp_f35n3u2/bcsqd2g7.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp_f35n3u2/wrl0kmh8.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp_f35n3u2/prophet_modelikx62qgn/prophet_model-20241123160833.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpf4ir3jpc/z1mljohk.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpf4ir3jpc/tm8nso1v.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=63539', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpf4ir3jpc/z1mljohk.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpf4ir3jpc/tm8nso1v.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpf4ir3jpc/prophet_model57ro32mf/prophet_model-20241123160942.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpm5pcr1yp/tb4u6ouw.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpm5pcr1yp/rzwv_ihp.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=86571', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpm5pcr1yp/tb4u6ouw.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpm5pcr1yp/rzwv_ihp.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpm5pcr1yp/prophet_model4bm3vxf_/prophet_model-20241123161459.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpy76jgany/gqn6p01f.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpy76jgany/ny438_0w.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=57578', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpy76jgany/gqn6p01f.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpy76jgany/ny438_0w.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpy76jgany/prophet_model9pcje9sh/prophet_model-20241123161552.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpzyznzjel/tiku9lmk.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpzyznzjel/aiozyex1.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=35899', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpzyznzjel/tiku9lmk.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpzyznzjel/aiozyex1.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpzyznzjel/prophet_modelurwmgbcc/prophet_model-20241123161957.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:19:58.431452              0  0.419466  0.133444
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:19:58.948516              0  0.419466  0.133444
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:19:59.373037              0  0.419466  0.133444
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:19:59.794220              0  0.419466  0.133444
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:20:00.316225              0  0.419466  0.133444
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:20:00.847171              0  0.419466  0.133444
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:20:01.283870              0  0.419466  0.133444
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:20:01.690513              0  0.419466  0.133444
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:20:02.105217              0  0.419466  0.133444
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:20:02.604851              0  0.419466  0.133444
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:20:03.193176              0  0.419466  0.133444
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:20:03.631902              0  0.419466  0.133444
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:20:04.157989              0  0.419466  0.133444
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:20:04.582755              0  0.419466  0.133444
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:20:05.072419              0  0.419466  0.133444
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:20:05.479572              0  0.419466  0.133444
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:20:06.005464              0  0.419466  0.133444
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE     MAPE
+0 2024-11-23 16:20:06.621522              0  0.440254  0.14099
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE     MAPE
+0 2024-11-23 16:20:07.188490              0  0.440254  0.14099
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE     MAPE
+0 2024-11-23 16:20:07.703880              0  0.440254  0.14099
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE     MAPE
+0 2024-11-23 16:20:08.151036              0  0.440254  0.14099
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE     MAPE
+0 2024-11-23 16:20:08.653112              0  0.440254  0.14099
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE     MAPE
+0 2024-11-23 16:20:09.202023              0  0.440254  0.14099
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE     MAPE
+0 2024-11-23 16:20:09.587366              0  0.440254  0.14099
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE     MAPE
+0 2024-11-23 16:20:10.003882              0  0.440254  0.14099
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7jeehk35/fuscd20q.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7jeehk35/wwu5_32c.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=49787', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7jeehk35/fuscd20q.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7jeehk35/wwu5_32c.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp7jeehk35/prophet_model4p_ezclj/prophet_model-20241123162106.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:06.709466              0  0.525322  0.172944
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:07.142279              0  0.525322  0.172944
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpv_8xr1g3/zcdsoddf.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpv_8xr1g3/93n2oy_w.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=39350', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpv_8xr1g3/zcdsoddf.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpv_8xr1g3/93n2oy_w.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpv_8xr1g3/prophet_modelais9hzj2/prophet_model-20241123162108.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:09.034253              0  0.525322  0.172944
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:09.590597              0  0.525322  0.172944
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:11.268501              0  0.525322  0.172944
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:12.546590              0  0.525322  0.172944
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:13.357245              0  0.525322  0.172944
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:13.791447              0  0.530413  0.174913
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:14.272545              0  0.530413  0.174913
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:14.700644              0  0.530413  0.174913
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:15.109215              0  0.530413  0.174913
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:15.591975              0  0.530413  0.174913
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:16.016265              0  0.530413  0.174913
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:16.845007              0  0.530413  0.174913
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:17.424774              0  0.530413  0.174913
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:17.840413              0  0.530413  0.174913
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:18.310419              0  0.530413  0.174913
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:19.326738              0  0.530413  0.174913
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:19.748223              0  0.530413  0.174913
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:21.517687              0  0.530413  0.174913
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:23.395366              0  0.494988  0.161347
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:25.551432              0  0.494988  0.161347
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:26.354471              0  0.494988  0.161347
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:27.314129              0  0.494988  0.161347
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:28.051373              0  0.494988  0.161347
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:28.574407              0  0.487979  0.158699
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:29.010121              0  0.487979  0.158699
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:29.421230              0  0.487979  0.158699
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:30.520741              0  0.487979  0.158699
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:31.400057              0  0.487979  0.158699
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:32.211577              0  0.487979  0.158699
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:32.656112              0  0.487979  0.158699
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:33.079211              0  0.487979  0.158699
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:33.591056              0  0.487979  0.158699
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:34.019549              0  0.487979  0.158699
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:34.458841              0  0.487979  0.158699
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:34.899287              0  0.487979  0.158699
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:35.316851              0  0.487979  0.158699
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:21:35.728352              0  0.487979  0.158699
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count     MAE      MAPE
+0 2024-11-23 16:21:36.265288              0  0.4283  0.136639
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count     MAE      MAPE
+0 2024-11-23 16:21:36.674702              0  0.4283  0.136639
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count     MAE      MAPE
+0 2024-11-23 16:21:37.140938              0  0.4283  0.136639
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count     MAE      MAPE
+0 2024-11-23 16:21:38.154863              0  0.4283  0.136639
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count     MAE      MAPE
+0 2024-11-23 16:21:39.427734              0  0.4283  0.136639
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count     MAE      MAPE
+0 2024-11-23 16:21:40.060737              0  0.4283  0.136639
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count     MAE      MAPE
+0 2024-11-23 16:21:40.818064              0  0.4283  0.136639
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count     MAE      MAPE
+0 2024-11-23 16:21:42.181208              0  0.4283  0.136639
+++++++++++++++++++++++++++++++++++++++++++++++++++
+No anomalies detected.
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfd5lg_ho/zoku0e0u.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfd5lg_ho/ihuthof_.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=21743', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfd5lg_ho/zoku0e0u.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfd5lg_ho/ihuthof_.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpfd5lg_ho/prophet_model67uvzxrg/prophet_model-20241123162228.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:22:29.559811              0  0.861046  0.318694
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:22:30.067859              0  0.861046  0.318694
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:22:30.466066              0  0.861046  0.318694
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:22:30.914956              0  0.861046  0.318694
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:22:31.372866              0  0.861046  0.318694
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:22:31.850099              0  0.861046  0.318694
+++++++++++++++++++++++++++++++++++++++++++++++++++
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpb2l9sef1/tof0pbgu.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpb2l9sef1/ujs5gf3m.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=37797', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpb2l9sef1/tof0pbgu.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpb2l9sef1/ujs5gf3m.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpb2l9sef1/prophet_model_flqi4ie/prophet_model-20241123162302.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpnphfcwlh/gignifng.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpnphfcwlh/z7w346jv.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=70160', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpnphfcwlh/gignifng.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpnphfcwlh/z7w346jv.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpnphfcwlh/prophet_model07jva8l1/prophet_model-20241123162338.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:38.793194              0  0.878339  0.327188
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:40.267607              0  0.878339  0.327188
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:40.695285              0  0.878339  0.327188
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:41.108496              0  0.878339  0.327188
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:41.715399              0  0.878339  0.327188
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:42.240051              0  0.878339  0.327188
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:42.670175              0  0.878339  0.327188
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:43.071140              0  0.878339  0.327188
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:43.503105              0  0.877131  0.326591
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:43.886289              0  0.877131  0.326591
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:44.383768              0  0.877131  0.326591
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:44.939568              0  0.877131  0.326591
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:45.349423              0  0.877131  0.326591
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:45.744572              0  0.877131  0.326591
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:46.145374              0  0.877131  0.326591
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:46.575778              0  0.877131  0.326591
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:46.994018              0  0.877131  0.326591
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:47.403314              0  0.877131  0.326591
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:47.830545              0  0.877131  0.326591
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:48.269720              0  0.877131  0.326591
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:48.684416              0  0.877131  0.326591
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:49.091189              0  0.877131  0.326591
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:49.516135              0  0.877131  0.326591
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:50.016934              0  0.877131  0.326591
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:50.449945              0  0.877131  0.326591
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:50.867548              0  0.877131  0.326591
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:51.293100              0  0.914036  0.345074
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:51.685314              0  0.914036  0.345074
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:52.070979              0  0.914036  0.345074
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:52.487526              0  0.914036  0.345074
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:52.928055              0  0.914036  0.345074
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:53.345641              0  0.914036  0.345074
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:53.751523              0  0.914036  0.345074
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:54.214056              0  0.914036  0.345074
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:54.605865              0  0.914036  0.345074
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-23 16:23:55.124916              0  0.914036  0.345074
+++++++++++++++++++++++++++++++++++++++++++++++++++
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpprgw15kk/kk0w7rjp.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpprgw15kk/n2vmrb9f.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=30106', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpprgw15kk/kk0w7rjp.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpprgw15kk/n2vmrb9f.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpprgw15kk/prophet_modelc100c6w4/prophet_model-20241124090222.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpw1qk5yrw/rx0v9prm.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpw1qk5yrw/r90_dm9n.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=79096', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpw1qk5yrw/rx0v9prm.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpw1qk5yrw/r90_dm9n.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpw1qk5yrw/prophet_modelfdqi_hmk/prophet_model-20241124090406.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmptqnb73wg/s3ysf17f.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmptqnb73wg/1jhdp7xn.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=39228', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmptqnb73wg/s3ysf17f.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmptqnb73wg/1jhdp7xn.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmptqnb73wg/prophet_model1rrz41aa/prophet_model-20241124090853.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpt1em7bko/ow6d89i1.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpt1em7bko/ycnfmuho.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=96891', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpt1em7bko/ow6d89i1.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpt1em7bko/ycnfmuho.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpt1em7bko/prophet_model19gq_nce/prophet_model-20241124091043.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 09:10:44.597009              0  1.062846  0.425138
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 09:10:51.020554              0  1.062846  0.425138
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 09:10:57.466076              0  1.040833  0.412699
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 09:11:03.913838              0  0.876799  0.326427
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 09:11:10.631298              0  0.862846  0.319572
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  ...      MAPE
+0 2024-11-24 09:11:17.200258  ...  0.306647
+
+[1 rows x 4 columns]
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 09:11:23.623907              0  0.800134  0.289619
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count      MAE     MAPE
+0 2024-11-24 09:11:30.802219              0  0.94328  0.36009
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 09:11:37.875292              0  0.887719  0.331842
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 09:11:47.848419              0  1.045604  0.415377
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 09:11:56.391969              0  1.027962  0.405526
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 09:12:07.528663              0  1.077409  0.433489
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count      MAE      MAPE
+0 2024-11-24 09:12:14.240561              0  0.99814  0.389183
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count      MAE      MAPE
+0 2024-11-24 09:12:20.678855              0  0.99814  0.389183
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+             current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 09:12:27.579              0  1.187846  0.500146
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 09:12:35.077905              0  1.099431  0.446304
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 09:12:41.978269              0  1.008792  0.394977
+++++++++++++++++++++++++++++++++++++++++++++++++++
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjdaum8c1/t_tqisci.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjdaum8c1/mqs7zpzd.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=94835', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjdaum8c1/t_tqisci.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjdaum8c1/mqs7zpzd.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjdaum8c1/prophet_model77wqhlwo/prophet_model-20241124092638.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Training and Forecast Time Results
+                current_time  anomaly_count     MAE      MAPE
+0 2024-11-24 09:26:39.325923              0  1.0717  0.430204
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 09:26:45.765182              0  1.092257  0.442104
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 09:26:52.460776              0  1.065578  0.426697
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp2h0qkn9z/aamai0sh.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp2h0qkn9z/bpb2vx2w.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=9171', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp2h0qkn9z/aamai0sh.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp2h0qkn9z/bpb2vx2w.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp2h0qkn9z/prophet_model43q7j54_/prophet_model-20241124123405.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp4f8znqt1/ff0158d6.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp4f8znqt1/g_uxjxvo.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=45216', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp4f8znqt1/ff0158d6.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp4f8znqt1/g_uxjxvo.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp4f8znqt1/prophet_modeln9eov4ga/prophet_model-20241124123444.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp23sh53un/58hi3_k9.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp23sh53un/bdh_nn29.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=40815', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp23sh53un/58hi3_k9.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp23sh53un/bdh_nn29.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp23sh53un/prophet_modelr1mp14ps/prophet_model-20241124123537.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp5cvu097q/yccwnjai.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp5cvu097q/kh4tjpww.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=42082', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp5cvu097q/yccwnjai.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp5cvu097q/kh4tjpww.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp5cvu097q/prophet_modelvrrcr_oj/prophet_model-20241124123556.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmnsx1yfi/gxk8n5xf.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmnsx1yfi/d2addjd8.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=54688', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmnsx1yfi/gxk8n5xf.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmnsx1yfi/d2addjd8.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmnsx1yfi/prophet_modelxzb0tra0/prophet_model-20241124123603.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjtelu4dd/zbx7eup_.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjtelu4dd/ywwkvjnf.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=65903', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjtelu4dd/zbx7eup_.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjtelu4dd/ywwkvjnf.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjtelu4dd/prophet_modeln8e8y5bu/prophet_model-20241124123627.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmprbyr2gi4/sxrxg75z.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmprbyr2gi4/7taetku8.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=52211', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmprbyr2gi4/sxrxg75z.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmprbyr2gi4/7taetku8.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmprbyr2gi4/prophet_modeltmk8c_ux/prophet_model-20241124123710.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpu3bzs10j/mdqdt4fc.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpu3bzs10j/qxs5_c9p.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=65122', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpu3bzs10j/mdqdt4fc.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpu3bzs10j/qxs5_c9p.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpu3bzs10j/prophet_modell9y95kf_/prophet_model-20241124124221.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpesb_4yx4/g3dnbf75.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpesb_4yx4/8rmq_q0o.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=82953', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpesb_4yx4/g3dnbf75.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpesb_4yx4/8rmq_q0o.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpesb_4yx4/prophet_model2ap1m55e/prophet_model-20241124124238.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpbnvo9fcj/vjf34dym.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpbnvo9fcj/irjuftov.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=58535', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpbnvo9fcj/vjf34dym.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpbnvo9fcj/irjuftov.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpbnvo9fcj/prophet_modelr0dau1wd/prophet_model-20241124124309.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp78hlp08z/4_1vf_qk.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp78hlp08z/zk3_e_tp.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=9888', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp78hlp08z/4_1vf_qk.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp78hlp08z/zk3_e_tp.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp78hlp08z/prophet_model8qrmljjp/prophet_model-20241124124411.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 12:44:15.385712              0  0.562846  0.187615
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn4y93vsd/f7iq8mx3.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn4y93vsd/gf45r_tk.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=9413', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn4y93vsd/f7iq8mx3.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn4y93vsd/gf45r_tk.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpn4y93vsd/prophet_model74r5cquu/prophet_model-20241124124443.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 12:44:44.644513              0  0.971936  0.375133
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 12:45:45.757078              0  0.862846  0.319572
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 12:46:46.626156              0  0.723183  0.254672
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 12:47:47.224111              0  0.818798  0.298391
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 12:48:47.738234              0  0.681027  0.236319
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 12:49:48.224593              0  0.444268  0.142459
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 12:50:48.891460              0  0.386773  0.121777
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 12:51:50.968543              0  0.186763  0.055319
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 12:52:54.150765              0  0.409548  0.129879
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpwyzgqk1j/_gt30prb.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpwyzgqk1j/y7xa3gvn.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=86735', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpwyzgqk1j/_gt30prb.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpwyzgqk1j/y7xa3gvn.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpwyzgqk1j/prophet_modelibotbix3/prophet_model-20241124125359.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 12:54:02.262625              0  0.464305  0.149847
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 12:55:02.701582              0  0.390614  0.123135
+                current_time  anomaly_count       MAE     MAPE
+0 2024-11-24 12:56:03.140709              0  0.149495  0.04027
+                current_time  anomaly_count       MAE    MAPE
+0 2024-11-24 12:57:03.679193              0  0.569863  0.1904
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 12:58:04.808773              0  0.584743  0.196348
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmjea3url/95stcwiz.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmjea3url/ke_mr2en.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=59522', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmjea3url/95stcwiz.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmjea3url/ke_mr2en.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmjea3url/prophet_modelu47e3e5v/prophet_model-20241124125902.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-24 12:59:03.637417              0  0.544564  0.180422
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpulkvw6bx/e_ej6asb.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpulkvw6bx/iv5m303w.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=44809', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpulkvw6bx/e_ej6asb.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpulkvw6bx/iv5m303w.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpulkvw6bx/prophet_modeloiyg780t/prophet_model-20241126164608.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmiszrte5/8hrn07xq.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmiszrte5/9gcg3til.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=19951', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmiszrte5/8hrn07xq.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmiszrte5/9gcg3til.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmiszrte5/prophet_model3g6xn3ho/prophet_model-20241126164704.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpzv1ls8nz/ht2slj76.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpzv1ls8nz/xkukrhpk.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=16175', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpzv1ls8nz/ht2slj76.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpzv1ls8nz/xkukrhpk.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpzv1ls8nz/prophet_model9ddcw84w/prophet_model-20241126164758.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-26 16:47:58.169309              0  0.691286  0.240735
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp9z3oxilz/gwk47zo9.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp9z3oxilz/2rqdtcxk.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=88670', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp9z3oxilz/gwk47zo9.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp9z3oxilz/2rqdtcxk.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp9z3oxilz/prophet_model3c7t5lgu/prophet_model-20241126165655.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-26 16:56:55.313225              0  0.210648  0.055823
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-26 16:57:55.452699              0  0.039807  0.011299
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-26 16:58:55.598772              0  0.290918  0.088913
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-26 16:59:55.717420              0  0.440015  0.140903
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-26 17:00:55.842128              0  0.492567  0.160431
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-26 17:01:55.965699              0  0.618122  0.209908
+                current_time  anomaly_count      MAE      MAPE
+0 2024-11-26 17:02:56.099826              0  0.77227  0.276742
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-26 17:03:56.238167              0  0.850271  0.313455
+                current_time  anomaly_count       MAE     MAPE
+0 2024-11-26 17:04:56.382849              0  0.875346  0.32571
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-26 17:05:56.508437              0  0.824283  0.300991
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmmh9t6ig/t3w_dgkt.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmmh9t6ig/uvf48z0b.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=56378', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmmh9t6ig/t3w_dgkt.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmmh9t6ig/uvf48z0b.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpmmh9t6ig/prophet_modelxoe12p7c/prophet_model-20241126171227.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-26 17:12:27.614599              0  0.609231  0.206266
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-26 17:13:27.744363              0  0.505858  0.165476
+                current_time  anomaly_count      MAE      MAPE
+0 2024-11-26 17:14:27.867044              0  0.17933  0.053001
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-26 17:15:27.993808              0  0.126675  0.036865
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-26 17:16:28.129710              0  0.078052  0.021438
+                current_time  anomaly_count      MAE      MAPE
+0 2024-11-26 17:17:28.293240              0  0.05164  0.014287
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-26 17:18:28.433511              0  0.348199  0.108316
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpyolfltwk/gb1vrp31.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpyolfltwk/6ar8og3g.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=35053', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpyolfltwk/gb1vrp31.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpyolfltwk/6ar8og3g.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpyolfltwk/prophet_modelfn_yn1c_/prophet_model-20241126172233.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp20veo2sc/euyt4ba2.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp20veo2sc/uj3v9ut5.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=25386', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp20veo2sc/euyt4ba2.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp20veo2sc/uj3v9ut5.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp20veo2sc/prophet_modeld8rmb366/prophet_model-20241126172348.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+
+                 Timestamp Anomalies     MAE     MAPE
+2024-11-26 17:23:48.675769         0 0.76336 0.272679
+
+                 Timestamp Anomalies      MAE     MAPE
+2024-11-26 17:23:48.675769         0 0.763360 0.272679
+2024-11-26 17:24:48.820099         0 0.865876 0.321055
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpj8kbepv0/03so34q2.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpj8kbepv0/q962baoy.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=17500', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpj8kbepv0/03so34q2.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpj8kbepv0/q962baoy.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpj8kbepv0/prophet_model4rtyvrvj/prophet_model-20241126172531.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+
+                 Timestamp Anomalies      MAE     MAPE
+2024-11-26 17:25:31.278956         0 0.979135 0.378965
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpcl560qhu/huralmck.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpcl560qhu/b1xkb9mt.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=58257', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpcl560qhu/huralmck.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpcl560qhu/b1xkb9mt.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpcl560qhu/prophet_model1ukrlt87/prophet_model-20241126172901.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+
+                 Timestamp Anomalies      MAE     MAPE
+2024-11-26 17:29:01.450037         0 1.067896 0.428023
+
+                 Timestamp Anomalies      MAE     MAPE
+2024-11-26 17:29:01.450037         0 1.067896 0.428023
+2024-11-26 17:30:01.580293         0 0.618401 0.210023
+
+                 Timestamp Anomalies      MAE     MAPE
+2024-11-26 17:29:01.450037         0 1.067896 0.428023
+2024-11-26 17:30:01.580293         0 0.618401 0.210023
+2024-11-26 17:31:01.703008         0 0.658290 0.226641
+
+                 Timestamp Anomalies      MAE     MAPE
+2024-11-26 17:29:01.450037         0 1.067896 0.428023
+2024-11-26 17:30:01.580293         0 0.618401 0.210023
+2024-11-26 17:31:01.703008         0 0.658290 0.226641
+2024-11-26 17:32:01.826568         0 0.607308 0.205482
+
+                 Timestamp Anomalies      MAE     MAPE
+2024-11-26 17:29:01.450037         0 1.067896 0.428023
+2024-11-26 17:30:01.580293         0 0.618401 0.210023
+2024-11-26 17:31:01.703008         0 0.658290 0.226641
+2024-11-26 17:32:01.826568         0 0.607308 0.205482
+2024-11-26 17:33:01.951830         0 0.468895 0.151552
+
+                 Timestamp Anomalies      MAE     MAPE
+2024-11-26 17:29:01.450037         0 1.067896 0.428023
+2024-11-26 17:30:01.580293         0 0.618401 0.210023
+2024-11-26 17:31:01.703008         0 0.658290 0.226641
+2024-11-26 17:32:01.826568         0 0.607308 0.205482
+2024-11-26 17:33:01.951830         0 0.468895 0.151552
+2024-11-26 17:34:02.074857         0 0.420181 0.133702
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp0ygb6fvy/h494kv2k.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp0ygb6fvy/68sn09xd.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=77338', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp0ygb6fvy/h494kv2k.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp0ygb6fvy/68sn09xd.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp0ygb6fvy/prophet_modelym94tyvj/prophet_model-20241126173819.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppsz93tap/6g518sdu.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppsz93tap/zu0owou0.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=35048', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppsz93tap/6g518sdu.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppsz93tap/zu0owou0.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppsz93tap/prophet_modelo2iuvtg6/prophet_model-20241126174040.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp3739mcrv/k65udy4w.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp3739mcrv/7b1indgr.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=18633', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp3739mcrv/k65udy4w.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp3739mcrv/7b1indgr.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp3739mcrv/prophet_modely4wd3iw8/prophet_model-20241126174103.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-26 17:41:03.555067              0 0.372846 0.116879
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-26 17:42:03.752700              0 0.665726 0.229789
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-26 17:43:03.916202              0 0.884923 0.330452
+
+              current_time  anomaly_count    MAE     MAPE
+2024-11-26 17:44:04.032852              0 0.8669 0.321557
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-26 17:45:04.167522              0 1.027962 0.405526
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-26 17:46:04.308107              0 0.931267 0.353881
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpb62nnnw1/z1srj7g7.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpb62nnnw1/y707e61c.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=17371', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpb62nnnw1/z1srj7g7.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpb62nnnw1/y707e61c.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpb62nnnw1/prophet_modelet8i9svp/prophet_model-20241126174740.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpcbp2g89g/ekj9g28t.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpcbp2g89g/5j3r0m2e.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=23083', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpcbp2g89g/ekj9g28t.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpcbp2g89g/5j3r0m2e.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpcbp2g89g/prophet_modeln4clzadu/prophet_model-20241126174813.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpdaeqqrpn/xjxc55l4.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpdaeqqrpn/7twx663t.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=49983', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpdaeqqrpn/xjxc55l4.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpdaeqqrpn/7twx663t.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpdaeqqrpn/prophet_model89o390f3/prophet_model-20241126174827.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppyutw8wu/oaej5l0z.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppyutw8wu/kefoz_2z.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=71110', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppyutw8wu/oaej5l0z.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppyutw8wu/kefoz_2z.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppyutw8wu/prophet_modelq5a2fvnz/prophet_model-20241126174835.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpx5nj1iky/wfa5tcpp.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpx5nj1iky/uhldp79k.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=99876', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpx5nj1iky/wfa5tcpp.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpx5nj1iky/uhldp79k.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpx5nj1iky/prophet_modelt_rws4lo/prophet_model-20241126175247.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjex5x9ed/p31nc0yg.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjex5x9ed/vh8mixo7.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=32396', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjex5x9ed/p31nc0yg.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjex5x9ed/vh8mixo7.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjex5x9ed/prophet_model6p8jwlqd/prophet_model-20241126175431.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpbpgzdtgn/suqn4aid.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpbpgzdtgn/eg1umel4.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=28976', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpbpgzdtgn/suqn4aid.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpbpgzdtgn/eg1umel4.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpbpgzdtgn/prophet_modelty85rx5g/prophet_model-20241126175536.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpkbji33bn/ochzvkwy.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpkbji33bn/l4pxq6ae.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=65935', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpkbji33bn/ochzvkwy.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpkbji33bn/l4pxq6ae.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpkbji33bn/prophet_model8dr4rb7m/prophet_model-20241127020839.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpr95_berp/z_w7qcat.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpr95_berp/kjf9ux3h.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=20524', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpr95_berp/z_w7qcat.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpr95_berp/kjf9ux3h.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpr95_berp/prophet_modelyp53e7yb/prophet_model-20241127021050.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmprdx0vw33/e36lh9_q.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmprdx0vw33/ke8_9zdw.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=97991', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmprdx0vw33/e36lh9_q.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmprdx0vw33/ke8_9zdw.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmprdx0vw33/prophet_modelhby2756o/prophet_model-20241127021154.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 02:11:54.671379              0 0.720149 0.253333
+
+              current_time  anomaly_count      MAE    MAPE
+2024-11-27 02:12:54.807476              0 1.164996 0.48585
+
+              current_time  anomaly_count     MAE     MAPE
+2024-11-27 02:13:54.936103              0 0.86252 0.319413
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 02:14:55.058316              0 1.019988 0.401119
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 02:15:55.189928              0 0.482085 0.156483
+
+              current_time  anomaly_count      MAE    MAPE
+2024-11-27 02:16:55.302954              0 0.573353 0.19179
+
+              current_time  anomaly_count      MAE    MAPE
+2024-11-27 02:17:55.461543              0 0.321921 0.09933
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 02:18:55.598380              0 0.131367 0.038283
+
+              current_time  anomaly_count    MAE    MAPE
+2024-11-27 02:19:55.574019              0 0.1846 0.04926
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 02:20:55.709534              0 0.726106 0.169297
+
+              current_time  anomaly_count      MAE    MAPE
+2024-11-27 02:21:55.849047              0 0.235013 0.06188
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 02:22:55.972553              0 0.179236 0.052972
+
+              current_time  anomaly_count      MAE    MAPE
+2024-11-27 02:23:56.109510              0 0.123539 0.03592
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 02:24:56.239734              0 0.607689 0.205637
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 02:25:56.355153              0 0.683725 0.237477
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 02:26:56.501290              0 1.032283 0.407926
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 02:27:56.654071              0 0.983898 0.381512
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 02:28:56.775979              0 1.200683 0.508298
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 02:29:56.908741              0 1.186699 0.499421
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpx70jks4b/n82sf3n1.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpx70jks4b/yfbfot7c.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=94540', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpx70jks4b/n82sf3n1.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpx70jks4b/yfbfot7c.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpx70jks4b/prophet_modelguxl7nuu/prophet_model-20241127023417.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpy31sfpbi/d92stq1v.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpy31sfpbi/84o24sqy.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=47326', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpy31sfpbi/d92stq1v.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpy31sfpbi/84o24sqy.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpy31sfpbi/prophet_modelznibotm9/prophet_model-20241127023812.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+ iter_count:                current_time  anomaly_count      MAE     MAPE
+            0 2024-11-27 02:38:12.341452              0 0.147597 0.043217
+ iter_count:                current_time  anomaly_count      MAE     MAPE
+            1 2024-11-27 02:39:12.481693              0 0.212161 0.063319
+ iter_count:                current_time  anomaly_count      MAE     MAPE
+            2 2024-11-27 02:40:12.624536              0 0.632123 0.150686
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpng_zezbs/539t85x_.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpng_zezbs/_gsolqyl.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=96885', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpng_zezbs/539t85x_.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpng_zezbs/_gsolqyl.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpng_zezbs/prophet_modelss05j6y7/prophet_model-20241127024246.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+Training and Forecast Time Results
+ iter_count:                current_time  anomaly_count      MAE     MAPE
+            0 2024-11-27 02:42:46.952115              0 0.032321 0.009155
+ iter_count:                current_time  anomaly_count      MAE     MAPE
+            1 2024-11-27 02:43:47.102698              0 0.316001 0.097326
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp_82ngz0v/pvo7ai0u.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp_82ngz0v/hl1p0iez.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=86426', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp_82ngz0v/pvo7ai0u.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp_82ngz0v/hl1p0iez.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp_82ngz0v/prophet_modele9yj57r1/prophet_model-20241127025500.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-27 02:55:00.739379              0  1.057895  0.422322
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-27 02:55:06.854930              0  1.069175  0.428755
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-27 02:55:12.972745              0  1.069175  0.428755
+++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++
+Training and Forecast Time Results
+                current_time  anomaly_count       MAE      MAPE
+0 2024-11-27 02:55:19.096070              0  1.013973  0.397813
+++++++++++++++++++++++++++++++++++++++++++++++++++
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp3a6ko9kl/pqoz1vkg.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp3a6ko9kl/r_khrp9x.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=91835', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp3a6ko9kl/pqoz1vkg.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp3a6ko9kl/r_khrp9x.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp3a6ko9kl/prophet_modelb_i_pcbm/prophet_model-20241127025801.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpkyvdkcq0/xo1ycarm.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpkyvdkcq0/ae34k68w.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=60039', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpkyvdkcq0/xo1ycarm.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpkyvdkcq0/ae34k68w.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpkyvdkcq0/prophet_model377zwsvn/prophet_model-20241127025836.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpivo8bf3h/5ka2xpnh.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpivo8bf3h/lhi_3pxb.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=85661', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpivo8bf3h/5ka2xpnh.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpivo8bf3h/lhi_3pxb.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpivo8bf3h/prophet_modeldmj_st_u/prophet_model-20241127025905.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppqdzm3j7/qb8fvkmg.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppqdzm3j7/cbghbf8v.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=58506', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppqdzm3j7/qb8fvkmg.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppqdzm3j7/cbghbf8v.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmppqdzm3j7/prophet_modelevm7eum7/prophet_model-20241127030027.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpzw1q88hm/jihwunj1.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpzw1q88hm/b147pw8e.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=91160', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpzw1q88hm/jihwunj1.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpzw1q88hm/b147pw8e.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpzw1q88hm/prophet_modelblo4jq_9/prophet_model-20241127030136.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmplu94blha/_68pth1q.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmplu94blha/p59xqxl5.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=21973', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmplu94blha/_68pth1q.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmplu94blha/p59xqxl5.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmplu94blha/prophet_model9uryp_ig/prophet_model-20241127030727.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+
+Timestamp Anomalies                  MAE                 MAPE                 current_time anomaly_count
+      NaN       NaN [0.9514711660101351] [0.3643564719203966] [2024-11-27 03:07:27.813654]           [0]
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpczf9u2_e/6b0jnxs5.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpczf9u2_e/ogbuevtn.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=59416', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpczf9u2_e/6b0jnxs5.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpczf9u2_e/ogbuevtn.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpczf9u2_e/prophet_modelnuxebq35/prophet_model-20241127030838.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+
+              current_time  anomaly_count      MAE    MAPE
+2024-11-27 03:08:38.602131              0 1.197628 0.50635
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpaae0hekr/y2g5fd7e.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpaae0hekr/fqh5qp2a.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=45636', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpaae0hekr/y2g5fd7e.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpaae0hekr/fqh5qp2a.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpaae0hekr/prophet_modelm_2acbuu/prophet_model-20241127030907.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 03:09:07.773444              0 1.283276 0.562946
+
+              current_time  anomaly_count      MAE   MAPE
+2024-11-27 03:10:07.913501              0 1.279263 0.5602
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp_uv2zp7z/1upci7n_.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp_uv2zp7z/kxz98htk.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=48659', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp_uv2zp7z/1upci7n_.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp_uv2zp7z/kxz98htk.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp_uv2zp7z/prophet_modelng81wicp/prophet_model-20241127031535.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 03:15:35.990837              0 0.826997 0.302281
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp1educfgg/wmtkj0nu.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp1educfgg/7jj9ylwa.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=25148', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp1educfgg/wmtkj0nu.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp1educfgg/7jj9ylwa.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp1educfgg/prophet_modeln0kn996j/prophet_model-20241127031556.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+
+              current_time  anomaly_count      MAE    MAPE
+2024-11-27 03:15:56.915834              0 0.772636 0.27691
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 03:16:03.035638              0 0.792012 0.285839
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjsw2wfzz/xshujwy9.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjsw2wfzz/_xee1a95.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=39525', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjsw2wfzz/xshujwy9.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjsw2wfzz/_xee1a95.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpjsw2wfzz/prophet_modelrc4glo2d/prophet_model-20241127032353.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+
+              current_time  anomaly_count       MAE     MAPE
+2024-11-27 03:23:53.917597              1 97.228294 0.964651
+
+              current_time  anomaly_count       MAE     MAPE
+2024-11-27 03:24:54.063178              1 13.937154 0.796409
+
+              current_time  anomaly_count      MAE    MAPE
+2024-11-27 03:25:54.198148              1 6.080012 0.63052
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 03:26:54.324052              0 1.263638 0.261813
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 03:27:54.457876              0 1.437154 0.287431
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 03:28:54.577844              0 1.360231 0.276297
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 03:29:54.692770              0 1.289006 0.265673
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 03:30:54.805647              0 0.667924 0.157873
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpa01q6s2q/jev_j3xl.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpa01q6s2q/buqjehjj.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=64635', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpa01q6s2q/jev_j3xl.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpa01q6s2q/buqjehjj.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpa01q6s2q/prophet_modeltxhrzl6m/prophet_model-20241127034011.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmprurcd0yg/woi0sr_z.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmprurcd0yg/dkhv7s8m.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=55142', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmprurcd0yg/woi0sr_z.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmprurcd0yg/dkhv7s8m.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmprurcd0yg/prophet_modelivoq9cmu/prophet_model-20241127034021.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp5x47msq7/61ta399x.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp5x47msq7/g_2okuwp.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=27491', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp5x47msq7/61ta399x.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp5x47msq7/g_2okuwp.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmp5x47msq7/prophet_model89wx70pw/prophet_model-20241127034949.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 03:49:49.487532              0 1.102171 0.447914
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 03:50:49.630847              0 1.002501 0.391549
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 03:51:49.754942              0 0.746179 0.264916
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 03:52:49.886176              0 0.993292 0.386562
+
+              current_time  anomaly_count      MAE    MAPE
+2024-11-27 03:53:50.010604              0 0.529939 0.17473
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 03:54:50.121776              0 0.753322 0.268131
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 03:55:50.253519              0 0.274436 0.083455
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 03:56:50.396823              0 0.266258 0.080768
+
+              current_time  anomaly_count      MAE    MAPE
+2024-11-27 03:57:50.544264              0 0.429003 0.10747
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 03:58:50.684980              0 0.385803 0.097705
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 03:59:50.827552              0 0.181523 0.053684
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 04:00:50.954472              0 0.038239 0.010849
+
+              current_time  anomaly_count     MAE     MAPE
+2024-11-27 04:01:51.097102              0 0.67286 0.232825
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 04:02:51.227706              0 0.546371 0.181129
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 04:03:51.345109              0 0.660293 0.227487
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 04:04:51.461018              0 1.253722 0.260294
+
+              current_time  anomaly_count       MAE     MAPE
+2024-11-27 04:05:51.597861              1 98.128884 0.964964
+
+              current_time  anomaly_count      MAE    MAPE
+2024-11-27 04:06:51.719189              0 1.330771 0.27194
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpua4ncpdk/qcyt207r.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpua4ncpdk/98j0f1q0.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=22539', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpua4ncpdk/qcyt207r.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpua4ncpdk/98j0f1q0.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpua4ncpdk/prophet_models02fjqc5/prophet_model-20241127040928.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 04:09:28.903314              0 0.795179 0.182463
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 04:10:29.089977              0 1.370488 0.277802
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 04:11:29.221995              0 1.124654 0.239926
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 04:12:29.354681              0 0.744172 0.172781
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 04:13:29.484302              0 1.307783 0.268504
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpkltjnyoi/gm8c0qga.json
+input tempfile: /var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpkltjnyoi/df5yrbce.json
+idx 0
+running CmdStan, num_threads: None
+CmdStan args: ['/Users/delphine/Desktop/assignments/ai-ops/lab-six/.venv/lib/python3.10/site-packages/prophet/stan_model/prophet_model.bin', 'random', 'seed=77316', 'data', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpkltjnyoi/gm8c0qga.json', 'init=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpkltjnyoi/df5yrbce.json', 'output', 'file=/var/folders/m7/t6ywgzk512s9xlt3dsp30tgm0000gn/T/tmpkltjnyoi/prophet_model8_v1cius/prophet_model-20241127041348.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+Chain [1] start processing
+Chain [1] done processing
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 04:13:48.928895              1 4.562154 0.561496
+
+              current_time  anomaly_count       MAE     MAPE
+2024-11-27 04:14:49.048851              1 97.212348 0.964646
+
+              current_time  anomaly_count       MAE    MAPE
+2024-11-27 04:15:49.190296              1 18.077434 0.83536
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 04:16:49.314895              1 6.434705 0.643628
+
+              current_time  anomaly_count       MAE     MAPE
+2024-11-27 04:17:49.444113              1 97.469857 0.964736
+
+              current_time  anomaly_count     MAE     MAPE
+2024-11-27 04:18:49.563329              0 1.86771 0.343926
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 04:19:49.687179              0 0.039082 0.011091
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 04:20:49.808372              0 0.007588 0.002134
+
+              current_time  anomaly_count     MAE     MAPE
+2024-11-27 04:21:49.939940              0 0.41211 0.130798
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 04:22:50.056135              0 0.552977 0.183721
+
+              current_time  anomaly_count      MAE     MAPE
+2024-11-27 04:23:50.189878              0 0.969531 0.373858

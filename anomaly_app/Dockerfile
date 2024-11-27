@@ -7,6 +7,8 @@ RUN chmod +x /usr/local/bin/dumb-init
 # Copy repo contents into working directory
 COPY . /anomaly_app
 COPY ./requirements.txt /anomaly_app/requirements.txt
+COPY ./boutique_training_finalCopy.json /anomaly_app/boutique_training_finalCopy.json
+
 WORKDIR /anomaly_app
 
 # Install prometheus client library

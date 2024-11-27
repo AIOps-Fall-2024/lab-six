@@ -1,0 +1,42 @@
+apiVersion: apps/v1
+kind: Deployment
+# metadata are assigned to the Deployment itself
+metadata:
+  name: anomalydeploy
+  labels:
+    app: anomaly 
+    # the spec controls running pods and provides a template for new pods
+spec:
+# for running pods, how many to keep running
+  replicas: 0 
+# how to find the set of pods to control
+  selector:
+    matchLabels:
+      app: anomalyapp
+# the template for creating new pods
+  template:
+# these metadata go on the pods, and are used above by the deployment to control them...hence must match!
+    metadata:
+      labels:
+        app: anomalyapp
+      annotations:
+        prometheus.io/scrape: "true"
+        prometheus.io/port: "8002"
+        prometheus.io/path: "/metrics" 
+# this spec is how to build the container for each pod, its image, resources, and port assignments
+    spec:
+      containers:
+      - name: anomalycontainer
+        imagePullPolicy: Always
+        # image: index.docker.io/cwiecha/demoapp:latest
+        # image: index.docker.io/cwiecha/monskeleton:latest
+        # image: index.docker.io/nyaboke/anomaly_app:latest2
+        image: index.docker.io/nyaboke/anomaly:v0
+        # image: index.docker.io/nyaboke/anomaly_app:final
+        # image: index.docker.io/python:latest
+        ports:
+        - containerPort: 80
+        resources:
+          requests:
+            cpu: 200m
+
