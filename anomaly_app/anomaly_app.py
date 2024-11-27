@@ -45,6 +45,8 @@ def get_metric(metric):
     # url = f"http://prometheus:9090/api/v1/query_range"
     
     url = "http://35.234.136.57:9090/api/v1/query" 
+    # url = "http://prometheus.istio-system:9090/api/v1/query"
+    
     params = {
         'query': metric,
     }
