@@ -2,6 +2,6 @@ requests
 prometheus_client 
 pandas 
 # requests
-numpy==1.26.0
+numpy==1.26.3
 prophet==1.1.5
 scikit-learn

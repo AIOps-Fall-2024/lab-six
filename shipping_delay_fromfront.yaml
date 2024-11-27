@@ -1,0 +1,24 @@
+apiVersion: networking.istio.io/v1beta1
+kind: VirtualService
+metadata:
+  name: shippingservice
+spec:
+  hosts:
+  - shippingservice
+  http:
+  - match:
+    - sourceLabels:
+        app: "frontend"
+    fault:
+      delay:
+        # fixedDelay: .1s
+        # a 2 second delay
+        fixedDelay: 0.2s
+        percent: 100
+    route:
+    - destination:
+        host: shippingservice
+  - route:
+    - destination:
+        host: shippingservice
+  
